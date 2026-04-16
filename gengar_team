@@ -1,0 +1,34 @@
+# Pokemon Team
+
+| Pokemon    | Type             | Weak To                          | Resists / Immune To                                   | Hits Super Effective Against                |
+| ---------- | ---------------- | -------------------------------- | ----------------------------------------------------- | ------------------------------------------- |
+| Gengar     | Ghost / Poison   | Ground, Ghost, Psychic, Dark     | Grass, Poison, Fairy, Bug; Immune: Normal, Fighting   | Ghost, Psychic, Grass, Fairy                |
+| Whimsicott | Grass / Fairy    | Fire, Ice, Poison, Flying, Steel | Water, Electric, Grass, Ground, Dark; Immune: Dragon  | Water, Ground, Rock, Dragon, Dark, Fighting |
+| Garchomp   | Dragon / Ground  | Ice (4x), Dragon, Fairy          | Fire, Poison, Rock; Immune: Electric                  | Fire, Electric, Poison, Rock, Steel, Dragon |
+| Incineroar | Fire / Dark      | Water, Ground, Fighting, Rock    | Fire, Grass, Ice, Ghost, Dark, Steel; Immune: Psychic | Grass, Ice, Steel, Psychic, Ghost           |
+| Farigiraf  | Normal / Psychic | Bug, Dark                        | Psychic; Immune: Ghost                                | Fighting, Poison                            |
+| Primarina  | Water / Fairy    | Electric, Grass, Poison          | Fire, Water, Ice, Dark, Bug, Fighting                 | Fire, Ground, Rock, Dragon, Dark, Fighting  |
+
+# Team Coverage
+
+| Pokemon    | Move           | Type    | Strong Against                      | Weak Against         | No Effect |
+| ---------- | -------------- | ------- | ----------------------------------- | -------------------- | --------- |
+| Gengar     | Shadow Ball    | Ghost   | Ghost, Psychic                      | Dark                 | Normal    |
+| Gengar     | Sludge Bomb    | Poison  | Fairy, Grass                        | Steel, Poison        | -         |
+| Gengar     | Perish Song    | Status  | All (stall win condition)           | -                    | -         |
+| Whimsicott | Moonblast      | Fairy   | Dragon, Dark, Fighting              | Fire, Poison, Steel  | -         |
+| Whimsicott | Tailwind       | Status  | Speed control                       | -                    | -         |
+| Whimsicott | Encore         | Status  | Setup / Protect / Trick Room        | -                    | -         |
+| Garchomp   | Earthquake     | Ground  | Fire, Electric, Poison, Rock, Steel | Grass, Bug           | Flying    |
+| Garchomp   | Dragon Claw    | Dragon  | Dragon                              | Steel, Fairy         | Fairy     |
+| Garchomp   | Rock Slide     | Rock    | Fire, Ice, Flying, Bug              | Steel, Ground        | -         |
+| Incineroar | Flare Blitz    | Fire    | Grass, Bug, Ice, Steel              | Water, Rock, Dragon  | -         |
+| Incineroar | Fake Out       | Normal  | Utility / flinch                    | Rock, Steel          | Ghost     |
+| Incineroar | Parting Shot   | Dark    | Psychic, Ghost                      | Dark, Fairy          | Normal    |
+| Farigiraf  | Twin Beam      | Psychic | Fighting, Poison                    | Dark, Steel          | Dark      |
+| Farigiraf  | Dazzling Gleam | Fairy   | Dragon, Dark, Fighting              | Fire, Poison, Steel  | -         |
+| Farigiraf  | Trick Room     | Status  | Reverses speed order                | -                    | -         |
+| Primarina  | Sparkling Aria | Water   | Fire, Ground, Rock                  | Water, Grass, Dragon | -         |
+| Primarina  | Moonblast      | Fairy   | Dragon, Dark, Fighting              | Fire, Poison, Steel  | -         |
+| Primarina  | Perish Song    | Status  | Stall / trap win condition          | -                    | -         |
+
